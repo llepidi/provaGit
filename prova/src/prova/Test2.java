@@ -2,10 +2,10 @@ package prova;
 
 public class Test2 {
 	public void doTest(String x, String s) {
-		if (s == x) {
-			System.out.println("Eq");
+		if (s.equals(x)) {
+			System.out.println("2 Eq");
 		} else {
-			System.out.println("NEq");
+			System.out.println("2 NEq");
 		}
 	}
 }
