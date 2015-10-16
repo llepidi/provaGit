@@ -5,7 +5,7 @@ public class Test2 {
 		if (s.equals(x)) {
 			System.out.println("2 Eq");
 		} else {
-			System.out.println("2 NEq");
+			System.out.println("2 Not Eq");
 		}
 	}
 }
